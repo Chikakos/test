@@ -1,3 +1,3 @@
 <?php
-print ("PHPaaaaaa表示成功!");
+print ("PHP表示成功!");
 ?>
